@@ -13,7 +13,7 @@
 #### KNOWLEDGE
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,expressjs,mongodb,redux)](https://skillicons.dev)
 
- I am looking for a collaboration with an international company that works with the react program in order to perform my learning, and to become a react web developer.
+ I am looking for a collaboration with an international company in order to perform my learning, and to become better skill.
 
 I am looking for a team that allows me to improve and develop myself.
 
