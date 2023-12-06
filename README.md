@@ -4,12 +4,24 @@
 
 ### FORMATION
 
+- Spiced academy: full stack developer bootcamp.
+
+- AWS with Javascript & NodeJS.
+
+- Udemy: AWS certified Developer Associate Exam Training DVA-CO2
+
+- Udemy: Understandig TypeScript.
+
+- Udemy: Next.js The complete Guide.
+
+- Udemy: The Complete Developers Guide to MongoDB.
+
+- Udemy: AWS Cloud Practitioner Exam Training 2023.
+
 - Udemy: Web developer certificate: The Web Developer Bootcamp 2023.
 
 - Udemy: React - The Complete Guide (incl Hooks, React Router, Redux)
  
-- Spiced academy: full stack developer bootcamp.
-
 #### KNOWLEDGE
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,expressjs,mongodb,redux,aws)](https://skillicons.dev)
 
