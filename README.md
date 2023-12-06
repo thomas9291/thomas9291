@@ -11,7 +11,7 @@
 - Spiced academy: full stack developer bootcamp.
 
 #### KNOWLEDGE
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,expressjs,mongodb,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,expressjs,mongodb,redux,aws)](https://skillicons.dev)
 
  I am looking for a collaboration with an international company in order to perform my learning, and to become better skill.
 
