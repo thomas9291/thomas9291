@@ -4,9 +4,9 @@
 
 ### FORMATION
 
-- Spiced academy: full stack developer bootcamp.
+- Spiced academy: Full Stack Web Developer Bootcamp.
 
-- AWS with Javascript & NodeJS.
+- Udemy: AWS with Javascript & NodeJS.
 
 - Udemy: AWS certified Developer Associate Exam Training DVA-CO2
 
